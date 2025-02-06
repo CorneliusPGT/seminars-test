@@ -1,0 +1,19 @@
+.block
+{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.date 
+{
+    display: flex; 
+    gap: 20px;
+    justify-content: center;   
+}
+
+.buttons 
+{
+    padding-top: 30px;
+}
