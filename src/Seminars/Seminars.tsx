@@ -12,6 +12,7 @@ export type SeminarsType = {
    "photo": string
 }
 
+//По умолчанию порт для локального json-сервера - 3001
 
 export const Seminars = () => {
 
